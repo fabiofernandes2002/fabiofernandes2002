@@ -21,6 +21,8 @@
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" ></img>
+    <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></img>
+    <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></img>
 </div><br/>
 
 Student in the 3rd year of the Web Technologies and Information Systems course at the School of Media, Arts, and Design of the Polytechnic Institute of Porto. I am a technology and creativity enthusiast, always seeking innovative solutions in the world of web development. My skills encompass HTML5, CSS, and JavaScript, where I am able to turn ideas into visually appealing and interactive interfaces. Additionally, I have knowledge in frameworks such as Vue.js, enabling me to build dynamic and modern web applications. I also have experience in graphic design, using tools like Adobe XD, Illustrator, and Photoshop to create captivating layouts and impactful visual identities. I am constantly learning and staying up-to-date with the latest trends in web development. My passion for creating digital experiences, combined with my academic background, makes me a dedicated and prepared professional to tackle challenges in the technology industry.

@@ -8,7 +8,7 @@
 ![Fábio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiofernandes2002&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-## Technologies that in my day
+## Technologies that I use in my day
 <div style= "display: inline_block"><br/>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ></img>
@@ -24,6 +24,8 @@
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" ></img>
+    <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+    </img>
 </div><br/>
 
 Student in the 3rd year of the Web Technologies and Information Systems course at the School of Media, Arts, and Design of the Polytechnic Institute of Porto. I am a technology and creativity enthusiast, always seeking innovative solutions in the world of web development. My skills encompass HTML5, CSS, and JavaScript, where I am able to turn ideas into visually appealing and interactive interfaces. Additionally, I have knowledge in frameworks such as Vue.js, enabling me to build dynamic and modern web applications. I also have experience in graphic design, using tools like Adobe XD, Illustrator, and Photoshop to create captivating layouts and impactful visual identities. I am constantly learning and staying up-to-date with the latest trends in web development. My passion for creating digital experiences, combined with my academic background, makes me a dedicated and prepared professional to tackle challenges in the technology industry.

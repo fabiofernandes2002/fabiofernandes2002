@@ -25,6 +25,10 @@
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"      </img>
+    <img align="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+    <img align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img align="center" alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+    <img align="center" alt="Bootstrap Vue" src="https://img.shields.io/badge/Bootstrap_Vue-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
 Student in the 3rd year of the Web Technologies and Information Systems course at the School of Media, Arts, and Design of the Polytechnic Institute of Porto. I am a technology and creativity enthusiast, always seeking innovative solutions in the world of web development. My skills encompass HTML5, CSS, and JavaScript, where I am able to turn ideas into visually appealing and interactive interfaces. Additionally, I have knowledge in frameworks such as Vue.js, enabling me to build dynamic and modern web applications. I also have experience in graphic design, using tools like Adobe XD, Illustrator, and Photoshop to create captivating layouts and impactful visual identities. I am constantly learning and staying up-to-date with the latest trends in web development. My passion for creating digital experiences, combined with my academic background, makes me a dedicated and prepared professional to tackle challenges in the technology industry.

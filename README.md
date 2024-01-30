@@ -21,6 +21,7 @@
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" ></img>
     <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" ></img>
+    <img align= "centerr" alt="HTML5" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" ></img>
     [![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 </div><br/>
 
